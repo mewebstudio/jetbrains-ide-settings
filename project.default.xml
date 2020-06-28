@@ -1,0 +1,58 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings">
+        <execution>
+          <executable path="composer" />
+        </execution>
+      </component>
+      <component name="MessDetector">
+        <phpmd_settings>
+          <MessDetectorConfiguration tool_path="/usr/local/bin/phpmd" />
+        </phpmd_settings>
+      </component>
+      <component name="PhpCSFixer">
+        <phpcsfixer_settings>
+          <PhpCSFixerConfiguration standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/usr/local/bin/php-cs-fixer" />
+        </phpcsfixer_settings>
+      </component>
+      <component name="PhpCodeSniffer">
+        <phpcs_settings>
+          <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
+        </phpcs_settings>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Quality toolsPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Quality toolsPHP</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+    </defaultProject>
+  </component>
+</application>
