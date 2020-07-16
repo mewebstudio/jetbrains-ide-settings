@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T04:38:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-28T05:06:24</property>
+    <property name="modified">2020-07-17T00:45:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -277,6 +277,13 @@
     <option name="Scala Valid escape in string">
       <value>
         <option name="FOREGROUND" value="90b37a" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="3b3f41" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
