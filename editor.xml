@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="LINE_SPACING" value="1.35" />
+    <option name="LINE_SPACING" value="1.4" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
