@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T04:38:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-17T03:26:08</property>
+    <property name="modified">2020-07-20T23:09:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -114,12 +114,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="addfea" />
+        <option name="FOREGROUND" value="a1d0da" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="addfea" />
+        <option name="FOREGROUND" value="a1d0da" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -218,6 +218,11 @@
       <value>
         <option name="FOREGROUND" value="9db4ca" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="93bec7" />
       </value>
     </option>
     <option name="KOTLIN_KEYWORD_VAL">
