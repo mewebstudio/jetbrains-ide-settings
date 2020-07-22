@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T04:38:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-17T03:52:07</property>
+    <property name="modified">2020-07-22T05:40:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -129,7 +129,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="91b195" />
+        <option name="FOREGROUND" value="9c9cb1" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -364,7 +364,7 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="ccaca0" />
+        <option name="FOREGROUND" value="b3b4b3" />
       </value>
     </option>
     <option name="MAKO.SUBSTITUTION">
@@ -449,6 +449,12 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="acc4bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="adb7d7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
