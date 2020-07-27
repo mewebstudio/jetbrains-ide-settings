@@ -28,11 +28,6 @@
         <option name="FOREGROUND" value="8db6bf" />
       </value>
     </option>
-    <option name="CONSOLE_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff667d" />
-      </value>
-    </option>
     <option name="CSS.COMMA">
       <value>
         <option name="FOREGROUND" value="b8ccbb" />
