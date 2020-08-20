@@ -36,7 +36,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Vue" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
