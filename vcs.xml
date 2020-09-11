@@ -46,9 +46,13 @@
           <option name="url" value="http://dev.digitaltim.de/vialantis/vialsite-react.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.fleet-tool.com/backend/pdf-report-templates.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Works/Fleet-Tool" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
