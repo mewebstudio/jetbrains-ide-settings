@@ -59,12 +59,8 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://dev.teleskop.app/teleskop/mobile-app.git" />
+          <option name="url" value="http://dev.digitaltim.de/bemycall/bemycall-customer-dashboard.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://dev.teleskop.app" />
-          <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
       </list>
     </option>

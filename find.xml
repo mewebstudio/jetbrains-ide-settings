@@ -7,9 +7,9 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -19,5 +19,7 @@
     <mask>*.ctp</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
