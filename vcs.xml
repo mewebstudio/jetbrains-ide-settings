@@ -70,9 +70,13 @@
           <option name="url" value="http://dev.teleskop.app" />
           <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mewebstudio/flask-rest-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/React" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Python" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
