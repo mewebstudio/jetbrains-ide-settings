@@ -63,11 +63,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://dev.teleskop.app/teleskop/mobile-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://dev.teleskop.app" />
           <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://dev.teleskop.app/teleskop/mobile-app.git" />
+          <option name="url" value="https://github.com/mewebstudio/flask-rest-boilerplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
