@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="asm" approved="true" type="Assembly file" />
-      <mapping ext="webp" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitginore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
-      <removed_mapping ext="asm" approved="true" type="Assembly file" />
     </extensionMap>
   </component>
 </application>

@@ -9,7 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -19,5 +18,7 @@
     <mask>*.ctp</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
