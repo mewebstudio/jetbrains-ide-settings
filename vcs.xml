@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/mewebstudio/flask-rest-boilerplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.teleskop.app/muharrem.erin/mobile-react-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/React" />
