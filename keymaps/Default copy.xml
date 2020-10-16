@@ -1,9 +1,4 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateTODOToolWindow" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
@@ -16,11 +11,5 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
 </keymap>
