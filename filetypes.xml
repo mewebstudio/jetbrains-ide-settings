@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
