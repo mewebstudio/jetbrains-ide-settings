@@ -3,7 +3,7 @@
     <property name="created">2020-06-28T04:38:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2021-02-02T01:12:35</property>
+    <property name="modified">2021-02-02T01:50:19</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -225,7 +225,7 @@
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="67a3bf" />
+        <option name="FOREGROUND" value="91b3c4" />
       </value>
     </option>
     <option name="GO_EXPORTED_STRUCT_REFERENCE">
@@ -258,7 +258,7 @@
     </option>
     <option name="GO_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="87b190" />
+        <option name="FOREGROUND" value="95bbc1" />
       </value>
     </option>
     <option name="GO_PACKAGE_EXPORTED_CONSTANT">
