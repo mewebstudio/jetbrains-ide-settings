@@ -16,9 +16,11 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.yaml</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
