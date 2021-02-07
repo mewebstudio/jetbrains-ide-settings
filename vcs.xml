@@ -110,9 +110,21 @@
           <option name="url" value="http://dev.digitaltim.de/bemycall/bemycall-laravel-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.cosmosboard.com" />
+          <option name="userName" value="muharrem.erin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/backend/fleet-tool-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/React" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -123,5 +135,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
