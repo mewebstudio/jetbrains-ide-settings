@@ -118,9 +118,13 @@
           <option name="url" value="http://dev.cosmosboard.com" />
           <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/backend/fleet-tool-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Python" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
