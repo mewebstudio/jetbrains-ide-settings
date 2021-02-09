@@ -11,6 +11,7 @@
       <removed_mapping ext="asm" approved="true" type="Assembly file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
