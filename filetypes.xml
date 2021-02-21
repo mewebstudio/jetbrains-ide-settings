@@ -2,9 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="CHANGES" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="asm" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />

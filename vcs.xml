@@ -122,6 +122,14 @@
           <option name="url" value="https://dev.cosmosboard.com/backend/fleet-tool-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/backend/opalit-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/frontend/cosmosboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
