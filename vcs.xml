@@ -98,9 +98,17 @@
           <option name="url" value="http://dev.fleet-tool.com/backend/crash-app-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/admin-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.cosmosboard.com" />
+          <option name="userName" value="muharrem.erin" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/React" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
