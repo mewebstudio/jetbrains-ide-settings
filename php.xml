@@ -2,13 +2,13 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="0f35d03f-93a0-4b57-adf8-01e659242a23" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="968ed858-1868-4ab0-99e8-d32f81104eae" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.7/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="968ed858-1868-4ab0-99e8-d32f81104eae" name="PHP 7.4" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.24-(to be removed in future macOS)">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -46,9 +46,7 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -74,13 +72,17 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.7/bin/php" path_separator=":" version="7.4.7">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.14_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.14_1/bin/php" path_separator=":" version="7.4.14">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-amqp.ini, /usr/local/etc/php/7.4/conf.d/ext-apcu.ini, /usr/local/etc/php/7.4/conf.d/ext-imagick.ini, /usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/ext-redis.ini, /usr/local/etc/php/7.4/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.14_1/share/php@7.4/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -91,6 +93,7 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="amqp" />
             <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="bz2" />
@@ -130,6 +133,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -142,6 +146,7 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />

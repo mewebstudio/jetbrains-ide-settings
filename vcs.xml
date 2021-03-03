@@ -108,7 +108,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/React" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -119,5 +119,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
