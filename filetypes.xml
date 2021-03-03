@@ -4,6 +4,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="CHANGES" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
