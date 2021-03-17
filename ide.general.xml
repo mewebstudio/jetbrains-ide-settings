@@ -7,5 +7,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
 </application>
