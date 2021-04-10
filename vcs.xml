@@ -99,11 +99,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/worgil/mobile.git" />
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/admin-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/caliskanerkan/car-crash" />
+          <option name="url" value="http://dev.cosmosboard.com" />
+          <option name="userName" value="muharrem.erin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/frontend/frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -127,5 +131,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
