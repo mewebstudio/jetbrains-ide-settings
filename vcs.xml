@@ -99,15 +99,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/worgil/mobile.git" />
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/admin-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/caliskanerkan/car-crash" />
-          <option name="userName" value="" />
+          <option name="url" value="http://dev.cosmosboard.com" />
+          <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://dev.digitaltim.de/bemycall/bemycall-laravel-api.git" />
+          <option name="url" value="https://dev.cosmosboard.com/frontend/frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -119,11 +119,15 @@
           <option name="userName" value="muharrem.erin" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://dev.cosmosboard.com/backend/fleet-tool-api.git" />
+          <option name="url" value="https://github.com/node-webrtc/node-webrtc-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://dev.cosmosboard.com/backend/opalit-web.git" />
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/webrtc-signal-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.cosmosboard.com/kaviyer/frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
