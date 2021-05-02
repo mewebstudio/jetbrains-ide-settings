@@ -4,7 +4,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="CHANGES" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping ext="webp" type="Image" />
+      <mapping pattern="AppFileProvider" type="AUTO_DETECTED" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
