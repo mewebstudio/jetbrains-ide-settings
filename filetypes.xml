@@ -6,6 +6,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="AppFileProvider" type="AUTO_DETECTED" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
