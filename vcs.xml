@@ -148,7 +148,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Git" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Node" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
