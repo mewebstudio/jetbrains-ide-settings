@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="AppFileProvider" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="3cc1d5a427a45820b04fe30f78a972b784952460" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="CHANGES" type="AUTO_DETECTED" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
