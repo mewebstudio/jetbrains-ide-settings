@@ -158,6 +158,10 @@
           <option name="url" value="http://dev.digitaltim.de/wawi/wawi-symfony.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.digitaltim.de/shopexperten/zonalytics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/PHP" />
